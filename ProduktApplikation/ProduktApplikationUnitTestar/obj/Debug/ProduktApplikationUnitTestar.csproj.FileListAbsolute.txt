@@ -1,0 +1,12 @@
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\TestDatabase.mdf
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\TestDatabase_log.ldf
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\ProduktApplikationUnitTestar.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\ProduktApplikationUnitTestar.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\ProduktApplikation.exe
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\ProduktApplikation.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\obj\Debug\ProduktApplikationUnitTestar.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\obj\Debug\ProduktApplikationUnitTestar.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\obj\Debug\ProduktApplikationUnitTestar.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\JRINCCustomControls.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikationUnitTestar\bin\Debug\JRINCCustomControls.xml

@@ -1,0 +1,12 @@
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\JRINC_currencyTextBox\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\JRINCCustomControls.XML
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\JRINC_currencyTextBox\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\JRINCCustomControls.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\JRINC_currencyTextBox\JRINC_currencyTextBox\JRINCCustomControls\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\JRINC_currencyTextBox\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\JRINCCustomControls.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\JRINC_currencyTextBox\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\JRINCCustomControls.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\JRINC_currencyTextBox\JRINC_currencyTextBox\JRINCCustomControls\obj\Debug\JRINCCustomControls.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\JRINCCustomControls\bin\Debug\JRINCCustomControls.XML
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\JRINCCustomControls\bin\Debug\JRINCCustomControls.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\JRINCCustomControls\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\JRINCCustomControls\obj\Debug\JRINCCustomControls.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\JRINCCustomControls\obj\Debug\JRINCCustomControls.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\JRINCCustomControls\obj\Debug\JRINCCustomControls.pdb

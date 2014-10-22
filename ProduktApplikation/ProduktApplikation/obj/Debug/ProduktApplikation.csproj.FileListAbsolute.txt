@@ -1,0 +1,14 @@
+c:\users\eliyat\documents\visual studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\ProduktApplikation.exe.config
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\obj\Debug\ProduktApplikation.csprojResolveAssemblyReference.cache
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\obj\Debug\ProduktApplikation.csproj.GenerateResource.Cache
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\TestDatabase.mdf
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\TestDatabase_log.ldf
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\ProduktApplikation.exe
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\ProduktApplikation.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\obj\Debug\ProduktApplikation.exe
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\obj\Debug\ProduktApplikation.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\JRINCCustomControls.dll
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\JRINCCustomControls.pdb
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\bin\Debug\JRINCCustomControls.xml
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\obj\Debug\ProduktApplikationSpace.ProduktApplikationForm.resources
+C:\Users\Eliyat\Documents\Visual Studio 2013\Projects\ProduktApplikation\ProduktApplikation\obj\Debug\ProduktApplikationSpace.Properties.Resources.resources
