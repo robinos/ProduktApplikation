@@ -2,7 +2,7 @@ ProduktApplikation (Demo) - Version 1.0 - 2014-10-27
 
 För att köra:
 
-1) I Databas klassen måste man ändrar path i connectionString till där projektet ligger.  Utan en full path (med kod för att själv upptäcka där applikationen kördes), fick man inte tilllåtelse att ändra i databasen, bara läsa.
+1) I Databas klassen måste man ändrar path i connectionString till där projektet ligger.  Utan en full path (t.ex med kod för att själv upptäcka där applikationen kördes), fick man inte tilllåtelse att ändra i databasen.
 
 2) För att få currencyTextBox i toolbox till Windows Forms måste man bygga hela solution.  Visual Studio borde automatiskt hitta den då.
 
@@ -16,21 +16,20 @@ Solutioninformation
 
 JRINCCustomControls projektet innehåller currencyTextBox vilket används i ProduktApplikation projektet. Det är baserad på kod från http://www.codeproject.com/Articles/248989/A-Currency-Masked-TextBox-from-TextBox-Class, men ändrat för att få tre olika funktionaliteter.
 
-1.) Med decimaltecken (default ",") och en obligatorisk decimalvärde, acceptera textboxen nummer och decimaltecken och se till att den alltid har x decimal där x är decimalvärdet.  ie. med decimalvärde 2, blir 12,1 -> 12,10 och 0 -> 0,00.  Vid för många decimaler blir det avhuggen, ie. 112,345 -> 112,34.  Nollar framför blir borttagen, ie. 00012 -> 12.00.  Det går även att sätta ett tusentalstecken (default " ") och ett pengar tecken (default "kr"). 
+1.) Med decimaltecken (default ",") och ett obligatoriskt decimalvärde (som 2 decimaler), accepterar textboxen nummer och decimaltecknen och ser till att den alltid har x decimal där x är decimalvärdet.  ie. med decimalvärde 2, blir 12,1 -> 12,10 och 0 -> 0,00.  Vid för många decimaler blir det avhuggen, ie. 112,345 -> 112,34.  Nollar framför blir borttagen, ie. 00012 -> 12.00.  Det går även att sätta ett tusentalstecken (default " ") och ett pengar tecken (default "kr"). 
 
-2.) Utan decimaltecken men med en obligatorisk decimalvärde, acceptera textboxen ett nummer som får extra nollar till en viss storlek, ie. med decimalvärde 5 blir 13 -> 00013. 
+2.) Utan decimaltecken men med ett obligatoriskt decimalvärde, acceptera textboxen ett nummer som måste vara en viss storlek och får nollar framför för att se till att det blir så, ie. med decimalvärde 5 blir 13 -> 00013. 
 
-3.) Utan decimaltecken och någon obligatoriska decimalvärde, blir det bara en vanliga textbox.
+3.) Utan decimaltecken och utan obligatoriska decimalvärde blir det bara en vanliga textbox.
 
 **För att få currencyTextBox i toolbox till Windows Forms måste man bygga hela solution.  Visual Studio borde automatiskt hitta den då.**
 
 - currencyTextBox.cs - kod
-- bin -> debug -> JRINCCustomControls.XML - xml
 
 
 
 ProduktApplikation projektet innehåller huvudprogrammet.
-Enlig MVC - Databas och Produkt är modeller (data), ProduktApplikationForm är vyn, och ProduktApplikation är kontroller (som hanterar kommunikation mellan data och vyn).
+Enlig MVC - Produkt är en modell (data), ProduktApplikationForm är vyn, och ProduktApplikation är huvudkontroller (som hanterar kommunikation mellan data och vyn).  Databas är en kontroller som har hand om databasen och kommunicera med huvudkontroller.
 
 - Produkt.cs (Modell)
 Databehållaren för data inläst från databasen, och ny data skriven till databasen.  Den har egna Equals och HashCode metoder.
@@ -64,8 +63,4 @@ De två klasser som testas är Produkt och ProduktApplikation.  Databas går inte a
 Testar skapande, tilldelning, och Equals metod i Produkt klassen.
 
 - testar_ProduktApplikation.cs
-Testar skapande, tilldelning, och metoder som kallar på Databas och ger ProduktApplikationForm svar (x).
-
-
-
-
+Testar skapande, tilldelning, och metoder som kallar på Databas och ger ProduktApplikationForm svar.
